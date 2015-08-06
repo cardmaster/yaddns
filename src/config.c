@@ -13,8 +13,8 @@
 #include "services.h"
 #include "util.h"
 
-#define CFG_DEFAULT_FILENAME "/etc/yaddns.conf"
-#define CFG_DEFAULT_WANIFNAME "ppp0"
+#define CFG_DEFAULT_FILENAME "/storage/yaddns.conf"
+#define CFG_DEFAULT_WANIFNAME "eth0"
 
 /*
  * spaces = space, \f, \n, \r, \t and \v
